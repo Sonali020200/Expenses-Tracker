@@ -34,22 +34,22 @@ git clone https://github.com/Sonali020200/Expenses-Tracker.git
 ```bash
 cd expense-tracker
 ```
-
 ```bash
 cd server
-
+```
 ```bash
 npm install
-
+```
 ```bash
 npm run server
-
+```
 ```bash
 cd client
-
+```
 ```bash
 npm install
-
+```
 ```bash
 npm start
+```
 
