@@ -1,6 +1,6 @@
 # Expenses-Tracker
 
-This Expense Tracker web application allows users to track their income and expenses. It is built using React with Redux for global state management and Chakra UI for styling.
+This Expense Tracker web application allows users to track their income and expenses. It is built using React with Redux for global state management and Tailwind CSS for styling.
 
 ## Preview
 
