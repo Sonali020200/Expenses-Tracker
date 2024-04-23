@@ -30,9 +30,10 @@ This Expense Tracker web application allows users to track their income and expe
 
 ```bash
 git clone https://github.com/Sonali020200/Expenses-Tracker.git
-
+```
 ```bash
 cd expense-tracker
+```
 
 ```bash
 cd server
